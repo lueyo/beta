@@ -1,0 +1,37 @@
+{
+  "title": "Ejemplo de Apps",
+  "description": "Página de ejemplo con 5 aplicaciones",
+  "theme": "light",
+  "url": "https://ejemplo.com",
+  "icon": "https://ejemplo.com/icon.png",
+  "apps": [
+    {
+      "url": "tables",
+      "name": "Lueyo Tables",
+      "description": "Aplicación de gestión de datos a nivel local, puedes exportarlos e importarlos en enlace, json, csv ",
+      "icon": "https://avatars.githubusercontent.com/u/84575656",
+      "type": "web",
+      "teches": [
+        { "name": "Angular", "url": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" },
+        { "name": "TypeScript", "url": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" }
+      ],
+      "wiiData": {
+        "menuImage": "/assets/wii/beta/create_table.png",
+        "detailedGif": "/assets/wii/beta/table_edit.png"
+      },
+      "tinderData": {
+        "distance": 5,
+        "date": "2023-06-01T00:00:00Z",
+        "tinderDescription": "App Uno en Tinder",
+        "tinderImages": ["https://app1.com/tinder1.png", "https://app1.com/tinder2.png"]
+      },
+      "win8Data": {
+        "win8Image": "https://app1.com/win8.png",
+        "color": "#FF0000",
+        "isBlack": false,
+        "size": "2x2",
+        "position": "1,1"
+      }
+    }
+  ]
+}
