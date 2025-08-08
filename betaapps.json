@@ -3,13 +3,14 @@
   "description": "Página de ejemplo con 5 aplicaciones",
   "theme": "light",
   "url": "https://ejemplo.com",
+  "email": "tonisuarez2005@gmail.com",
   "icon": "https://ejemplo.com/icon.png",
   "apps": [
     {
       "url": "tables",
       "name": "Lueyo Tables",
       "description": "Aplicación de gestión de datos a nivel local, puedes exportarlos e importarlos en enlace, json, csv ",
-      "icon": "https://avatars.githubusercontent.com/u/84575656",
+      "icon": "/assets/wii/beta/create_table.png",
       "type": "web",
       "teches": [
         { "name": "Angular", "url": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" },
