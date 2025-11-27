@@ -35,18 +35,18 @@
       }
     },
      {
-      "url": "randomyt",
-      "name": "RandomYT",
-      "description": "Plataforma para ver y publicar videos desconocidos de pocas visitas que salen en la sección de recomendados de youtube",
-      "icon": "/assets/wii/beta/randomyt_detail.png",
+      "url": "clashimpostor",
+      "name": "Clash Impostor",
+      "description": "Juego del impostor pero con cartas de Clash Royale",
+      "icon": "/assets/wii/beta/clashimpostor_main.png",
       "type": "web",
       "teches": [
         { "name": "Angular", "url": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" },
         { "name": "TypeScript", "url": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" }
       ],
       "wiiData": {
-        "menuImage": "/assets/wii/beta/randomyt_main.png",
-        "detailedGif": "/assets/wii/beta/randomyt_detail.png"
+        "menuImage": "/assets/wii/beta/clashimpostor_main.png",
+        "detailedGif": "/assets/wii/beta/clashimpostor_detail.png"
       },
       "tinderData": {
         "distance": 5,
